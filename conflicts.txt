@@ -18,6 +18,3 @@ Legger til en litta linje ekstra her.
 
 
 Ryddet opp i filer og pushet ny arkitektur. -M
-
-
-Dette er en endring rett fra min lokale alex-add branch
