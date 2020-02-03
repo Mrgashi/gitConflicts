@@ -1,1 +1,3 @@
-Hei, dett er det sykeste dere har sett. -Mirdon
+Hei, dette er det sykeste dere har sett. -Mirdon
+Nei, dette er det sykeste dere har sett. -Mirdon
+
