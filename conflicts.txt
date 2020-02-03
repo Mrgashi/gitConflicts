@@ -4,3 +4,5 @@ Adding a line from Alex
 Hello git - locally via terminal. -Mirdon
 
 Tester med nano via terminal og pusher til main. - Mirdon
+
+prøver en linje til :)
