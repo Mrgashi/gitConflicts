@@ -5,3 +5,6 @@ Hello git - locally via terminal. -Mirdon
 
 Tester med nano via terminal og pusher til main. - Mirdon
 Hello finally merged successfully! Line X
+
+
+Her har jeg lagt til en juicy awsome feature som skal legges til på master. - Mirdon
