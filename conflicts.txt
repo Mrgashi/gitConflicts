@@ -10,3 +10,11 @@ Hello finally merged successfully! Line X
 Legger til en litta linje ekstra her..
 
 Har lyst til å prøve en pull request til min alex-add branch
+Hello finally merged successfully! Line 
+
+
+Her har jeg lagt til en juicy awsome feature som skal legges til på master. - Mirdon
+Legger til en litta linje ekstra her.
+
+
+Ryddet opp i filer og pushet ny arkitektur. -M
