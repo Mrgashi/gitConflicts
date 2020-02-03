@@ -1,1 +1,4 @@
 Denne branchen maa inn i master asap - Line
+
+
+Nå har jeg laget en ny branch som jeg vil merge til master, Essensielt innhold!
