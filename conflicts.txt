@@ -1,1 +1,3 @@
-Hello git - locally via terminal.
+Hello git - locally via terminal. -Mirdon
+
+Tester med nano via terminal og pusher til main. - Mirdon
