@@ -8,3 +8,5 @@ Tester med nano via terminal og pusher til main. - Mirdon
 prøver en linje til :)
 Hello finally merged successfully! Line X
 Legger til en litta linje ekstra her..
+
+Har lyst til å prøve en pull request til min alex-add branch
