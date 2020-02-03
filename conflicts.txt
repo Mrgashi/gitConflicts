@@ -4,10 +4,7 @@ Adding a line from Alex
 Hello git - locally via terminal. -Mirdon
 
 Tester med nano via terminal og pusher til main. - Mirdon
-<<<<<<< HEAD
 
 prøver en linje til :)
-=======
 Hello finally merged successfully! Line X
 Legger til en litta linje ekstra her..
->>>>>>> 5ee6a55ec1eaaff047db740e26d955a07e261c4f
